@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 Currently, I'm 6th semester student at Universitas Gadjah Mada.
+<br>
 👩🏻‍💻 I'm learning Software Engineering programs.
+<br>
 🚀 Hit me up on Linkedin: https://www.linkedin.com/in/nancy-laylana-putri/ 
