@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **nancylaylaa/nancylaylaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 Currently, I'm 6th semester student at Universitas Gadjah Mada.
+👩🏻‍💻 I'm learning Software Engineering programs.
+🚀 Hit me up on Linkedin: https://www.linkedin.com/in/nancy-laylana-putri/ 
