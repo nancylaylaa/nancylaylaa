@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 👩🏻‍💻 I'm learning Software Engineering programs.
 <br>
 🚀 Hit me up on Linkedin: https://www.linkedin.com/in/nancy-laylana-putri/ 
+
+<a href="https://github.com/nancylaylaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nancylaylaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nancylaylaa&layout=compact&langs_count=8&theme=dark&bg_color=0D1117"/>
+</a>
+</p>
