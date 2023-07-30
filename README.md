@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Currently, I'm 6th semester student at Universitas Gadjah Mada.
+🌱 Currently, I'm 7th semester student at Universitas Gadjah Mada.
 <br>
 👩🏻‍💻 I'm learning Software Engineering programs.
 <br>
