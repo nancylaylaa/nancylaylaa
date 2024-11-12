@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Currently, I'm 7th semester student at Universitas Gadjah Mada.
+🌱 Currently, I'm fresh graduate Universitas Gadjah Mada majoring Software Engineering.
 <br>
-👩🏻‍💻 I'm learning Software Engineering programs.
+👩🏻‍💻 Software Quality Assurance Enthusiast. 
 <br>
 🚀 Hit me up on Linkedin: https://www.linkedin.com/in/nancy-laylana-putri/ 
 
